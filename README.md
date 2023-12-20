@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Yuri Brizolara
+## 💫 About Me:
 👋 Olá, mundo! Estou empolgado para compartilhar minha jornada de transição de carreira para o emocionante campo da tecnologia, com o objetivo de me tornar um Desenvolvedor Back-End. 💼 Como alguém com um histórico em cursos de engenharia, estou pronto para aplicar minhas habilidades analíticas, criatividade e paixão por resolver problemas para criar soluções de software sólidas e eficazes. Minha jornada até aqui me ensinou a ser resiliente, adaptável e a abraçar novos desafios com entusiasmo. Escolhi a área de desenvolvimento por me chamar atenção os desafios que ela nos dá diariamente. Meu objetivo é desenvolver habilidades sólidas de programação, trabalhar com bancos de dados, arquitetura de servidores e contribuir para projetos que impulsionem a inovação.
 
 
